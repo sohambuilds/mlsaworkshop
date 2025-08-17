@@ -46,7 +46,7 @@ This workshop introduces participants to building sophisticated AI systems using
 ### Prerequisites
 
 1. **Python 3.12+** installed
-2. **uv package manager** (recommended) or pip
+2. **uv package manager** 
 3. **Gemini API key** from [Google AI Studio](https://aistudio.google.com/)
 
 ### Installation
