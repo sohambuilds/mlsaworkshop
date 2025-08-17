@@ -53,7 +53,7 @@ This workshop introduces participants to building sophisticated AI systems using
 
 1. **Clone and navigate to the project:**
    ```bash
-   cd NGMI25/Workshop
+   git clone https://github.com/sohambuilds/mlsaworkshop.git
    ```
 
 2. **Install dependencies:**
